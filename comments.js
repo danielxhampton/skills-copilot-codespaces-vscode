@@ -1,6 +1,4 @@
-// create web server
-// create a web server that responds to requests to /comments with a JSON string containing mock comments to represent a database
-
+// create Web server
 var express = require('express');
 var app = express();
 
